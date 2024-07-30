@@ -3,3 +3,4 @@
 3. My enrollment number is 1234
 4. I live in Faisalabad
 5. I am interested in learning AI
+6. my favourite color is blue
